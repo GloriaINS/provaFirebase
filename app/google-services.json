@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "616636080647",
+    "project_id": "provafirebase-9847f",
+    "storage_bucket": "provafirebase-9847f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616636080647:android:736f2054786de844b6c0a2",
+        "android_client_info": {
+          "package_name": "com.example.provafirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "616636080647-vok8om29f84tpgcqij7d41f512noi3vn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXY_vAoLdPH1JCcTyuentUXr1CXGEBsAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "616636080647-vok8om29f84tpgcqij7d41f512noi3vn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
